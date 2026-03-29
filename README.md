@@ -1,6 +1,6 @@
 # 🎧 Spotify Analytics – SQL Project
 
-![Logo](Logo.png)
+![Logo](Logo.jpg)
 
 ## 📌 Overview
 
